@@ -1,0 +1,19 @@
+body {
+
+font-family: arial;verdana;helvetica;
+color: blue;
+background-color: ANTIQUEWHITE;
+
+}
+
+h2 {
+font-family:"Trebuchet", sans-serif;
+background-color: lightblue;
+color: red;
+}
+
+a:link{
+color:black}
+
+a:visited{
+color:green}
